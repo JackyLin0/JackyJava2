@@ -39,9 +39,9 @@ public class Jacky16 {
 		int[] d=new int[3];
 		int[] e=new int[]{1,2,3,5,7};//宣告同時直接給值
 		//int[] f=new int[5]{1,2,3,5,7};//編譯失敗
-	   int [] f={1,2,3,5,7};		
-		
-		
+	   int [] f={1,2,3,5,7};		 //也可以
+		 //int [] g
+	     //g={1,2,3,5,7}; 編譯失敗，宣告後要同時給值
 		for(int i=0;i<e.length;i++)
 		{
 		System.out.println(e[i]);	
