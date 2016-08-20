@@ -11,9 +11,8 @@ public class Jacky99 {
 					System.out.print(( j+k*4) + "*" + i + "＝" + i * ( j+k*4) + "\t");
 
 				}
+				System.out.println("\n");
 			}
-			System.out.println("\n");
-
 			System.out.println("------------------");
 		}
 
